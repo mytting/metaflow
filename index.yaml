@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  metaflow:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-22T07:32:43.127964645Z"
+    description: A Helm chart for Kubernetes
+    digest: fec86538be17260eda3949c1b3677f3aa8215290b135fb89e76f6d69af06b7a4
+    name: metaflow
+    type: application
+    urls:
+    - https://github.com/mytting/metaflow/releases/download/metaflow-0.1.0/metaflow-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-22T07:32:43.127972145Z"
